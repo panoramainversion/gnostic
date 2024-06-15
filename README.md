@@ -12,4 +12,9 @@ Two begets Three.
 Three begets all things.  
 
 one buddha-world  
-four dhyanas and eight samadhis
+four dhyanas and eight samadhis  
+   
+**eight consciousnesses**   
+eye ear nose tounge body mind  
+the defiled consciousness  
+the storehouse consciousneess  
