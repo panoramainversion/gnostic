@@ -24,3 +24,6 @@ The Truth of suffering – Dukkha
 The Truth of the origin of suffering – Samudaya   
 The Truth of the cessation of suffering – Nirodha   
 The Truth of the way leading to the cessation of suffering – Magga   
+
+$0(1^8)$  $0((-1)^8)$  
+
