@@ -6,6 +6,7 @@ Alchemy Astrology Theurgy
 **2**$(x^2, y^2)$   
 **3**$(θ; θ; θ)$   
 
+ https://www.geogebra.org/3d/mdtrnyw3
 
 Tao begets One.  
 One begets Two.  
