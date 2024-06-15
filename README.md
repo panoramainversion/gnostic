@@ -11,5 +11,5 @@ One begets Two.
 Two begets Three.  
 Three begets all things.  
 
- one buddha-world 
-
+one buddha-world  
+four dhyanas and eight samadhis
