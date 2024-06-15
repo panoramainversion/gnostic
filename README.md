@@ -18,3 +18,9 @@ four dhyanas and eight samadhis
 eye ear nose tounge body mind  
 the defiled consciousness  
 the storehouse consciousneess  
+  
+**Four Noble Truths**    
+The Truth of Suffering – Dukkha  
+The Truth of the origin of suffering – Samudaya   
+The Truth of the cessation of suffering – Nirodha   
+The Truth of the way leading to the cessation of suffering – Magga   
